@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "thread": "cpp",
+        "regex": "cpp",
+        "variant": "cpp"
+    }
+}

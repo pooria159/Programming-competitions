@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "iosfwd": "cpp"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
